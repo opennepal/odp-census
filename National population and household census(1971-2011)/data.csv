@@ -1,0 +1,901 @@
+Year,District,Gender/Household,Number
+1971,Taplejung ,Male,42227
+1971,Taplejung ,Female,42488
+1971,Taplejung ,Total Household,14091
+1971,Panchthar ,Male,72331
+1971,Panchthar ,Female,73478
+1971,Panchthar ,Total Household,25324
+1971,Ilam ,Male,70429
+1971,Ilam ,Female,69109
+1971,Ilam ,Total Household,24038
+1971,Jhapa ,Male,132886
+1971,Jhapa ,Female,114812
+1971,Jhapa ,Total Household,43957
+1971,Sankhuwasabha ,Male,56134
+1971,Sankhuwasabha ,Female,58179
+1971,Sankhuwasabha ,Total Household,20143
+1971,Terhathum ,Male,59033
+1971,Terhathum ,Female,60274
+1971,Terhathum ,Total Household,19932
+1971,Dhankuta ,Male,53105
+1971,Dhankuta ,Female,54544
+1971,Dhankuta ,Total Household,18760
+1971,Morang ,Male,157992
+1971,Morang ,Female,143565
+1971,Morang ,Total Household,54970
+1971,Sunsari ,Male,115108
+1971,Sunsari ,Female,108326
+1971,Sunsari ,Total Household,38479
+1971,Solukhumbu ,Male,52580
+1971,Solukhumbu ,Female,52744
+1971,Solukhumbu ,Total Household,20247
+1971,Bhojpur ,Male,95060
+1971,Bhojpur ,Female,99446
+1971,Bhojpur ,Total Household,35490
+1971,Khotang,Male,79715
+1971,Khotang,Female,83582
+1971,Khotang,Total Household,30224
+1971,Okhaldhunga ,Male,59485
+1971,Okhaldhunga ,Female,63377
+1971,Okhaldhunga ,Total Household,22980
+1971,Udayapur ,Male,55942
+1971,Udayapur ,Female,56680
+1971,Udayapur ,Total Household,20499
+1971,Saptari ,Male,159140
+1971,Saptari ,Female,153425
+1971,Saptari ,Total Household,58077
+1971,Siraha ,Male,153296
+1971,Siraha ,Female,149008
+1971,Siraha ,Total Household,59664
+1971,Dolakha ,Male,63180
+1971,Dolakha ,Female,66842
+1971,Dolakha ,Total Household,25306
+1971,Ramechhap ,Male,75727
+1971,Ramechhap ,Female,81622
+1971,Ramechhap ,Total Household,29092
+1971,Sindhuli ,Male,73601
+1971,Sindhuli ,Female,73808
+1971,Sindhuli ,Total Household,24871
+1971,Dhanusha,Male,168671
+1971,Dhanusha,Female,161930
+1971,Dhanusha,Total Household,64454
+1971,Mahottari ,Male,165022
+1971,Mahottari ,Female,159809
+1971,Mahottari ,Total Household,62249
+1971,Sarlahi ,Male,89277
+1971,Sarlahi ,Female,86266
+1971,Sarlahi ,Total Household,33595
+1971,Sindhupalchok ,Male,105102
+1971,Sindhupalchok ,Female,101282
+1971,Sindhupalchok ,Total Household,38427
+1971,Rasuwa ,Male,8863
+1971,Rasuwa ,Female,8654
+1971,Rasuwa ,Total Household,3347
+1971,Nuwakot ,Male,87645
+1971,Nuwakot ,Female,85073
+1971,Nuwakot ,Total Household,32139
+1971,Dhading ,Male,119545
+1971,Dhading ,Female,116731
+1971,Dhading ,Total Household,43168
+1971,Kavrepalanchok ,Male,122077
+1971,Kavrepalanchok ,Female,123088
+1971,Kavrepalanchok ,Total Household,41613
+1971,Bhaktapur ,Male,56550
+1971,Bhaktapur ,Female,53607
+1971,Bhaktapur ,Total Household,18908
+1971,Kathmandu ,Male,183913
+1971,Kathmandu ,Female,169843
+1971,Kathmandu ,Total Household,59507
+1971,Lalitpur ,Male,78629
+1971,Lalitpur ,Female,76369
+1971,Lalitpur ,Total Household,26578
+1971,Makwanpur ,Male,83095
+1971,Makwanpur ,Female,80671
+1971,Makwanpur ,Total Household,28830
+1971,Chitwan ,Male,94404
+1971,Chitwan ,Female,89240
+1971,Chitwan ,Total Household,28912
+1971,Rautahat ,Male,164369
+1971,Rautahat ,Female,155724
+1971,Rautahat ,Total Household,67259
+1971,Bara ,Male,120141
+1971,Bara ,Female,113260
+1971,Bara ,Total Household,44499
+1971,Parsa ,Male,104815
+1971,Parsa ,Female,97308
+1971,Parsa ,Total Household,37509
+1971,Gorakha ,Male,88706
+1971,Gorakha ,Female,89559
+1971,Gorakha ,Total Household,32246
+1971,Manang ,Male,3904
+1971,Manang ,Female,3532
+1971,Manang ,Total Household,1256
+1971,Lamjung ,Male,68555
+1971,Lamjung ,Female,71671
+1971,Lamjung ,Total Household,26291
+1971,Kaski ,Male,73590
+1971,Kaski ,Female,78159
+1971,Kaski ,Total Household,29665
+1971,Parbat ,Male,56930
+1971,Parbat ,Female,67759
+1971,Parbat ,Total Household,23306
+1971,Tanahun ,Male,76819
+1971,Tanahun ,Female,81320
+1971,Tanahun ,Total Household,28866
+1971,Syangja ,Male,129614
+1971,Syangja ,Female,138992
+1971,Syangja ,Total Household,51841
+1971,Nawalparasi ,Male,75319
+1971,Nawalparasi ,Female,71229
+1971,Nawalparasi ,Total Household,24346
+1971,Palpa ,Male,104909
+1971,Palpa ,Female,107724
+1971,Palpa ,Total Household,36567
+1971,Gulmi ,Male,110296
+1971,Gulmi ,Female,117450
+1971,Gulmi ,Total Household,41208
+1971,Arghakhanchi ,Male,63864
+1971,Arghakhanchi ,Female,66348
+1971,Arghakhanchi ,Total Household,23404
+1971,Rupendehi ,Male,126157
+1971,Rupendehi ,Female,117189
+1971,Rupendehi ,Total Household,45368
+1971,Kapilbastu ,Male,105589
+1971,Kapilbastu ,Female,99627
+1971,Kapilbastu ,Total Household,40651
+1971,Mustang ,Male,13510
+1971,Mustang ,Female,13434
+1971,Mustang ,Total Household,5154
+1971,Dolpa ,Male,9515
+1971,Dolpa ,Female,9595
+1971,Dolpa ,Total Household,3775
+1971,Myagdi ,Male,28352
+1971,Myagdi ,Female,29594
+1971,Myagdi ,Total Household,11041
+1971,Baglung ,Male,84254
+1971,Baglung ,Female,88475
+1971,Baglung ,Total Household,31785
+1971,Rukum ,Male,47540
+1971,Rukum ,Female,48703
+1971,Rukum ,Total Household,17725
+1971,Rolpa ,Male,79759
+1971,Rolpa ,Female,83196
+1971,Rolpa ,Total Household,29168
+1971,Sallyan ,Male,68926
+1971,Sallyan ,Female,72531
+1971,Sallyan ,Total Household,25151
+1971,Piuthan ,Male,66617
+1971,Piuthan ,Female,70721
+1971,Piuthan ,Total Household,25092
+1971,Dang Deokhuri ,Male,84511
+1971,Dang Deokhuri ,Female,83309
+1971,Dang Deokhuri ,Total Household,25133
+1971,Humla ,Male,15376
+1971,Humla ,Female,14148
+1971,Humla ,Total Household,5524
+1971,Mugu ,Male,13248
+1971,Mugu ,Female,12470
+1971,Mugu ,Total Household,4988
+1971,Tibrikot ,Male,5107
+1971,Tibrikot ,Female,4910
+1971,Tibrikot ,Total Household,1588
+1971,Jumla ,Male,62630
+1971,Jumla ,Female,60123
+1971,Jumla ,Total Household,20611
+1971,Jajarkot ,Male,44122
+1971,Jajarkot ,Female,42442
+1971,Jajarkot ,Total Household,14705
+1971,Dailekh ,Male,77702
+1971,Dailekh ,Female,78370
+1971,Dailekh ,Total Household,27794
+1971,Surkhet ,Male,52321
+1971,Surkhet ,Female,52612
+1971,Surkhet ,Total Household,17076
+1971,Banke ,Male,66586
+1971,Banke ,Female,59123
+1971,Banke ,Total Household,23860
+1971,Bardiya ,Male,52949
+1971,Bardiya ,Female,48844
+1971,Bardiya ,Total Household,12352
+1971,Bajura ,Male,30290
+1971,Bajura ,Female,31052
+1971,Bajura ,Total Household,11574
+1971,Bajhang ,Male,54781
+1971,Bajhang ,Female,53842
+1971,Bajhang ,Total Household,18259
+1971,Achham ,Male,63623
+1971,Achham ,Female,68589
+1971,Achham ,Total Household,25362
+1971,Doti ,Male,81628
+1971,Doti ,Female,84442
+1971,Doti ,Total Household,30829
+1971,Kailali ,Male,67380
+1971,Kailali ,Female,61497
+1971,Kailali ,Total Household,15365
+1971,Darchula ,Male,35092
+1971,Darchula ,Female,33776
+1971,Darchula ,Total Household,10648
+1971,Baitadi ,Male,65328
+1971,Baitadi ,Female,63368
+1971,Baitadi ,Total Household,19921
+1971,Dandeldhura ,Male,46080
+1971,Dandeldhura ,Female,48663
+1971,Dandeldhura ,Total Household,17084
+1971,Kanchanpur ,Male,36635
+1971,Kanchanpur ,Female,32228
+1971,Kanchanpur ,Total Household,10345
+1981,Taplejung ,Male,60732
+1981,Taplejung ,Female,60048
+1981,Taplejung ,Total Household,20202
+1981,Panchthar ,Male,76585
+1981,Panchthar ,Female,77161
+1981,Panchthar ,Total Household,26507
+1981,Ilam ,Male,92031
+1981,Ilam ,Female,86325
+1981,Ilam ,Total Household,31330
+1981,Jhapa ,Male,252011
+1981,Jhapa ,Female,227732
+1981,Jhapa ,Total Household,81113
+1981,Sankhuwasabha ,Male,278355
+1981,Sankhuwasabha ,Female,256337
+1981,Sankhuwasabha ,Total Household,91045
+1981,Terhathum ,Male,178355
+1981,Terhathum ,Female,166239
+1981,Terhathum ,Total Household,58187
+1981,Dhankuta ,Male,66183
+1981,Dhankuta ,Female,63598
+1981,Dhankuta ,Total Household,22332
+1981,Morang ,Male,45897
+1981,Morang ,Female,46557
+1981,Morang ,Total Household,15483
+1981,Sunsari ,Male,65525
+1981,Sunsari ,Female,63889
+1981,Sunsari ,Total Household,27063
+1981,Solukhumbu ,Male,97295
+1981,Solukhumbu ,Female,95394
+1981,Solukhumbu ,Total Household,34884
+1981,Bhojpur ,Male,44591
+1981,Bhojpur ,Female,43654
+1981,Bhojpur ,Total Household,16577
+1981,Khotang,Male,67653
+1981,Khotang,Female,69987
+1981,Khotang,Total Household,24009
+1981,Okhaldhunga ,Male,106880
+1981,Okhaldhunga ,Female,105691
+1981,Okhaldhunga ,Total Household,38316
+1981,Udayapur ,Male,80530
+1981,Udayapur ,Female,79275
+1981,Udayapur ,Total Household,27457
+1981,Saptari ,Male,194376
+1981,Saptari ,Female,184679
+1981,Saptari ,Total Household,68640
+1981,Siraha ,Male,194958
+1981,Siraha ,Female,180400
+1981,Siraha ,Total Household,68644
+1981,Dolakha ,Male,224900
+1981,Dolakha ,Female,207669
+1981,Dolakha ,Total Household,79785
+1981,Ramechhap ,Male,187092
+1981,Ramechhap ,Female,173962
+1981,Ramechhap ,Total Household,64262
+1981,Sindhuli ,Male,205991
+1981,Sindhuli ,Female,192775
+1981,Sindhuli ,Total Household,71667
+1981,Dhanusha,Male,93251
+1981,Dhanusha,Female,90454
+1981,Dhanusha,Total Household,29956
+1981,Mahottari ,Male,77956
+1981,Mahottari ,Female,83489
+1981,Mahottari ,Total Household,29623
+1981,Sarlahi ,Male,74910
+1981,Sarlahi ,Female,75666
+1981,Sarlahi ,Total Household,28848
+1981,Sindhupalchok ,Male,122663
+1981,Sindhupalchok ,Female,109663
+1981,Sindhupalchok ,Total Household,42713
+1981,Rasuwa ,Male,156218
+1981,Rasuwa ,Female,150932
+1981,Rasuwa ,Total Household,49545
+1981,Nuwakot ,Male,97678
+1981,Nuwakot ,Female,86663
+1981,Nuwakot ,Total Household,29943
+1981,Dhading ,Male,81833
+1981,Dhading ,Female,77934
+1981,Dhading ,Total Household,25047
+1981,Kavrepalanchok ,Male,227934
+1981,Kavrepalanchok ,Female,194303
+1981,Kavrepalanchok ,Total Household,67933
+1981,Bhaktapur ,Male,104493
+1981,Bhaktapur ,Female,98483
+1981,Bhaktapur ,Total Household,37137
+1981,Kathmandu ,Male,15719
+1981,Kathmandu ,Female,14522
+1981,Kathmandu ,Total Household,5791
+1981,Lalitpur ,Male,124538
+1981,Lalitpur ,Female,118863
+1981,Lalitpur ,Total Household,44408
+1981,Makwanpur ,Male,125480
+1981,Makwanpur ,Female,117931
+1981,Makwanpur ,Total Household,40832
+1981,Chitwan ,Male,173161
+1981,Chitwan ,Female,159365
+1981,Chitwan ,Total Household,63646
+1981,Rautahat ,Male,165107
+1981,Rautahat ,Female,153850
+1981,Rautahat ,Total Household,56210
+1981,Bara ,Male,146342
+1981,Bara ,Female,137996
+1981,Bara ,Total Household,45785
+1981,Parsa ,Male,133349
+1981,Parsa ,Female,126222
+1981,Parsa ,Total Household,41414
+1981,Gorakha ,Male,114614
+1981,Gorakha ,Female,116680
+1981,Gorakha ,Total Household,40734
+1981,Manang ,Male,72565
+1981,Manang ,Female,80155
+1981,Manang ,Total Household,27326
+1981,Lamjung ,Male,113316
+1981,Lamjung ,Female,110122
+1981,Lamjung ,Total Household,39306
+1981,Kaski ,Male,129666
+1981,Kaski ,Female,142158
+1981,Kaski ,Total Household,48415
+1981,Parbat ,Male,112024
+1981,Parbat ,Female,109248
+1981,Parbat ,Total Household,41760
+1981,Tanahun ,Male,3543
+1981,Tanahun ,Female,3478
+1981,Tanahun ,Total Household,1498
+1981,Syangja ,Male,6835
+1981,Syangja ,Female,6095
+1981,Syangja ,Total Household,2664
+1981,Nawalparasi ,Male,51828
+1981,Nawalparasi ,Female,45076
+1981,Nawalparasi ,Total Household,17644
+1981,Palpa ,Male,62515
+1981,Palpa ,Female,65885
+1981,Palpa ,Total Household,24476
+1981,Gulmi ,Male,107443
+1981,Gulmi ,Female,107785
+1981,Gulmi ,Total Household,37977
+1981,Arghakhanchi ,Male,115644
+1981,Arghakhanchi ,Female,122469
+1981,Arghakhanchi ,Total Household,42046
+1981,Rupendehi ,Male,108689
+1981,Rupendehi ,Female,105753
+1981,Rupendehi ,Total Household,36091
+1981,Kapilbastu ,Male,159162
+1981,Kapilbastu ,Female,149666
+1981,Kapilbastu ,Total Household,49150
+1981,Mustang ,Male,196783
+1981,Mustang ,Female,182313
+1981,Mustang ,Total Household,61237
+1981,Dolpa ,Male,143400
+1981,Dolpa ,Female,126645
+1981,Dolpa ,Total Household,46416
+1981,Myagdi ,Male,86515
+1981,Myagdi ,Female,70789
+1981,Myagdi ,Total Household,27543
+1981,Baglung ,Male,77424
+1981,Baglung ,Female,80245
+1981,Baglung ,Total Household,27297
+1981,Rukum ,Male,82378
+1981,Rukum ,Female,85788
+1981,Rukum ,Total Household,29207
+1981,Rolpa ,Male,67124
+1981,Rolpa ,Female,65308
+1981,Rolpa ,Total Household,24443
+1981,Sallyan ,Male,76029
+1981,Sallyan ,Female,76034
+1981,Sallyan ,Total Household,24514
+1981,Piuthan ,Male,135855
+1981,Piuthan ,Female,130538
+1981,Piuthan ,Total Household,38389
+1981,Dang Deokhuri ,Male,107240
+1981,Dang Deokhuri ,Female,98083
+1981,Dang Deokhuri ,Total Household,34688
+1981,Humla ,Male,103879
+1981,Humla ,Female,95165
+1981,Humla ,Total Household,26536
+1981,Mugu ,Male,83382
+1981,Mugu ,Female,82814
+1981,Mugu ,Total Household,27776
+1981,Tibrikot ,Male,83450
+1981,Tibrikot ,Female,83077
+1981,Tibrikot ,Total Household,29058
+1981,Jumla ,Male,51908
+1981,Jumla ,Female,47404
+1981,Jumla ,Total Household,43296
+1981,Jajarkot ,Male,11469
+1981,Jajarkot ,Female,10574
+1981,Jajarkot ,Total Household,4207
+1981,Dailekh ,Male,35890
+1981,Dailekh ,Female,32907
+1981,Dailekh ,Total Household,12393
+1981,Surkhet ,Male,45224
+1981,Surkhet ,Female,42414
+1981,Surkhet ,Total Household,15009
+1981,Banke ,Male,22672
+1981,Banke ,Female,21033
+1981,Banke ,Total Household,8002
+1981,Bardiya ,Male,10581
+1981,Bardiya ,Female,9722
+1981,Bardiya ,Total Household,3685
+1981,Bajura ,Male,37745
+1981,Bajura ,Female,36904
+1981,Bajura ,Total Household,12693
+1981,Bajhang ,Male,62206
+1981,Bajhang ,Female,61804
+1981,Bajhang ,Total Household,21513
+1981,Achham ,Male,89935
+1981,Achham ,Female,95277
+1981,Achham ,Total Household,33441
+1981,Doti ,Male,75156
+1981,Doti ,Female,77979
+1981,Doti ,Total Household,28170
+1981,Kailali ,Male,135978
+1981,Kailali ,Female,121927
+1981,Kailali ,Total Household,35241
+1981,Darchula ,Male,93171
+1981,Darchula ,Female,75800
+1981,Darchula ,Total Household,26365
+1981,Baitadi ,Male,44595
+1981,Baitadi ,Female,42258
+1981,Baitadi ,Total Household,14683
+1981,Dandeldhura ,Male,90804
+1981,Dandeldhura ,Female,88332
+1981,Dandeldhura ,Total Household,26655
+1981,Kanchanpur ,Male,46127
+1981,Kanchanpur ,Female,44091
+1981,Kanchanpur ,Total Household,13436
+2001,Taplejung,Male,"66,205"
+2001,Taplejung,Female,"68,493"
+2001,Taplejung,Household,"24,764"
+2001,Sankhuwasabha,Male,"77,853"
+2001,Sankhuwasabha,Female,"81,350"
+2001,Sankhuwasabha,Household,"30,766"
+2001,Solukhumbu,Male,"53,173"
+2001,Solukhumbu,Female,"54,513"
+2001,Solukhumbu,Household,"21,667"
+2001,Panchthar,Male,"99,042"
+2001,Panchthar,Female,"103,014"
+2001,Panchthar,Household,"37,260"
+2001,Ilam,Male,"142,434"
+2001,Ilam,Female,"140,372"
+2001,Ilam,Household,"54,565"
+2001,Dhankuta,Male,"81,841"
+2001,Dhankuta,Female,"84,638"
+2001,Dhankuta,Household,"32,571"
+2001,Terhathum,Male,"54,932"
+2001,Terhathum,Female,"58,179"
+2001,Terhathum,Household,"20,682"
+2001,Bhojpur,Male,"97,762"
+2001,Bhojpur,Female,"105,256"
+2001,Bhojpur,Household,"39,481"
+2001,Okhaldhunga,Male,"75,361"
+2001,Okhaldhunga,Female,"81,341"
+2001,Okhaldhunga,Household,"30,121"
+2001,Khotang,Male,"112,821"
+2001,Khotang,Female,"118,564"
+2001,Khotang,Household,"42,866"
+2001,Udayapur,Male,"143,756"
+2001,Udayapur,Female,"143,933"
+2001,Udayapur,Household,"51,603"
+2001,Jhapa*,Male,"341,675"
+2001,Jhapa*,Female,"346,434"
+2001,Jhapa*,Household,"137,301"
+2001,Morang,Male,"422,895"
+2001,Morang,Female,"420,325"
+2001,Morang,Household,"167,875"
+2001,Sunsari,Male,"315,530"
+2001,Sunsari,Female,"310,103"
+2001,Sunsari,Household,"120,295"
+2001,Saptari,Male,"291,409"
+2001,Saptari,Female,"278,873"
+2001,Saptari,Household,"101,141"
+2001,Siraha*,Male,"293,933"
+2001,Siraha*,Female,"278,466"
+2001,Siraha*,Household,"100,010"
+2001,Dolakha*,Male,"99,963"
+2001,Dolakha*,Female,"104,266"
+2001,Dolakha*,Household,"43,165"
+2001,Sindhupalchok*,Male,"152,012"
+2001,Sindhupalchok*,Female,"153,845"
+2001,Sindhupalchok*,Household,"60,452"
+2001,Rasuwa,Male,"23,355"
+2001,Rasuwa,Female,"21,376"
+2001,Rasuwa,Household,"8,696"
+2001,Sindhuli*,Male,"139,280"
+2001,Sindhuli*,Female,"140,541"
+2001,Sindhuli*,Household,"48,758"
+2001,Ramechhap,Male,"100,853"
+2001,Ramechhap,Female,"111,555"
+2001,Ramechhap,Household,"40,386"
+2001,Kavrepalanchok,Male,"188,947"
+2001,Kavrepalanchok,Female,"196,725"
+2001,Kavrepalanchok,Household,"70,509"
+2001,Lalitpur,Male,"172,455"
+2001,Lalitpur,Female,"165,330"
+2001,Lalitpur,Household,"68,922"
+2001,Bhaktapur,Male,"114,798"
+2001,Bhaktapur,Female,"110,663"
+2001,Bhaktapur,Household,"41,253"
+2001,Kathmandu,Male,"576,010"
+2001,Kathmandu,Female,"505,835"
+2001,Kathmandu,Household,"235,387"
+2001,Nuwakot,Male,"142,731"
+2001,Nuwakot,Female,"145,747"
+2001,Nuwakot,Household,"53,169"
+2001,Dhading,Male,"165,864"
+2001,Dhading,Female,"172,794"
+2001,Dhading,Household,"62,759"
+2001,Makwanpur,Male,"199,144"
+2001,Makwanpur,Female,"193,460"
+2001,Makwanpur,Household,"71,112"
+2001,Dhanusa,Male,"349,422"
+2001,Dhanusa,Female,"321,942"
+2001,Dhanusa,Household,"117,417"
+2001,Mahottari,Male,"287,905"
+2001,Mahottari,Female,"265,576"
+2001,Mahottari,Household,"94,229"
+2001,Sarlahi,Male,"329,182"
+2001,Sarlahi,Female,"306,519"
+2001,Sarlahi,Household,"111,076"
+2001,Rautahat,Male,"282,246"
+2001,Rautahat,Female,"262,886"
+2001,Rautahat,Household,"88,162"
+2001,Bara,Male,"289,397"
+2001,Bara,Female,"269,738"
+2001,Bara,Household,"87,706"
+2001,Parsa,Male,"260,411"
+2001,Parsa,Female,"236,808"
+2001,Parsa,Household,"79,456"
+2001,Chitawan,Male,"235,084"
+2001,Chitawan,Female,"236,964"
+2001,Chitawan,Household,"92,863"
+2001,Manang,Male,"5,034"
+2001,Manang,Female,"4,553"
+2001,Manang,Household,"1,776"
+2001,Mustang,Male,"8,180"
+2001,Mustang,Female,"6,801"
+2001,Mustang,Household,"3,243"
+2001,Gorkha,Male,"134,407"
+2001,Gorkha,Female,"153,727"
+2001,Gorkha,Household,"58,923"
+2001,Lamjung,Male,"83,406"
+2001,Lamjung,Female,"93,743"
+2001,Lamjung,Household,"36,525"
+2001,Tanahu,Male,"146,788"
+2001,Tanahu,Female,"168,449"
+2001,Tanahu,Household,"62,898"
+2001,Syangja,Male,"143,619"
+2001,Syangja,Female,"173,701"
+2001,Syangja,Household,"64,746"
+2001,Kaski,Male,"184,995"
+2001,Kaski,Female,"195,532"
+2001,Kaski,Household,"85,075"
+2001,Myagdi,Male,"53,178"
+2001,Myagdi,Female,"61,269"
+2001,Myagdi,Household,"24,435"
+2001,Parbat,Male,"72,942"
+2001,Parbat,Female,"84,884"
+2001,Parbat,Household,"32,731"
+2001,Baglung,Male,"123,528"
+2001,Baglung,Female,"145,409"
+2001,Baglung,Household,"53,565"
+2001,Gulmi,Male,"133,771"
+2001,Gulmi,Female,"162,883"
+2001,Gulmi,Household,"59,189"
+2001,Palpa,Male,"125,068"
+2001,Palpa,Female,"143,490"
+2001,Palpa,Household,"49,942"
+2001,Arghakhanchi,Male,"96,349"
+2001,Arghakhanchi,Female,"112,042"
+2001,Arghakhanchi,Household,"40,869"
+2001,Nawalparasi,Male,"278,257"
+2001,Nawalparasi,Female,"284,613"
+2001,Nawalparasi,Household,"98,340"
+2001,Rupandehi,Male,"360,773"
+2001,Rupandehi,Female,"347,646"
+2001,Rupandehi,Household,"117,856"
+2001,Kapilbastu,Male,"247,875"
+2001,Kapilbastu,Female,"234,101"
+2001,Kapilbastu,Household,"72,932"
+2001,Dolpa*,Male,"14,735"
+2001,Dolpa*,Female,"14,810"
+2001,Dolpa*,Household,"5,812"
+2001,Jumla*,Male,"45,848"
+2001,Jumla*,Female,"43,579"
+2001,Jumla*,Household,"15,850"
+2001,Kalikot*,Male,"53,189"
+2001,Kalikot*,Female,"52,391"
+2001,Kalikot*,Household,"18,487"
+2001,Mugu*,Male,"22,250"
+2001,Mugu*,Female,"21,687"
+2001,Mugu*,Household,"8,261"
+2001,Humla,Male,"20,962"
+2001,Humla,Female,"19,633"
+2001,Humla,Household,"6,953"
+2001,Pyuthan,Male,"98,390"
+2001,Pyuthan,Female,"114,094"
+2001,Pyuthan,Household,"40,183"
+2001,Rolpa,Male,"101,592"
+2001,Rolpa,Female,"108,412"
+2001,Rolpa,Household,"38,512"
+2001,Rukum,Male,"95,432"
+2001,Rukum,Female,"93,006"
+2001,Rukum,Household,"33,501"
+2001,Salyan*,Male,"106,834"
+2001,Salyan*,Female,"106,666"
+2001,Salyan*,Household,"38,084"
+2001,Surkhet*,Male,"142,817"
+2001,Surkhet*,Female,"145,710"
+2001,Surkhet*,Household,"54,047"
+2001,Dailekh,Male,"110,125"
+2001,Dailekh,Female,"115,076"
+2001,Dailekh,Household,"41,140"
+2001,Jajarkot,Male,"68,508"
+2001,Jajarkot,Female,"66,360"
+2001,Jajarkot,Household,"24,147"
+2001,Dang,Male,"228,958"
+2001,Dang,Female,"233,422"
+2001,Dang,Household,"82,495"
+2001,Banke,Male,"198,231"
+2001,Banke,Female,"187,609"
+2001,Banke,Household,"67,269"
+2001,Bardiya,Male,"192,655"
+2001,Bardiya,Female,"189,994"
+2001,Bardiya,Household,"59,569"
+2001,Bajura*,Male,"53,834"
+2001,Bajura*,Female,"54,947"
+2001,Bajura*,Household,"20,378"
+2001,Bajhang,Male,"80,676"
+2001,Bajhang,Female,"86,350"
+2001,Bajhang,Household,"28,588"
+2001,Darchula,Male,"59,791"
+2001,Darchula,Female,"62,205"
+2001,Darchula,Household,"21,029"
+2001,Achham,Male,"108,998"
+2001,Achham,Female,"122,287"
+2001,Achham,Household,"44,005"
+2001,Doti,Male,"103,521"
+2001,Doti,Female,"103,545"
+2001,Doti,Household,"36,465"
+2001,Dadeldhura,Male,"60,965"
+2001,Dadeldhura,Female,"65,197"
+2001,Dadeldhura,Household,"21,980"
+2001,Baitadi,Male,"113,538"
+2001,Baitadi,Female,"120,880"
+2001,Baitadi,Household,"40,387"
+2001,Kailali,Male,"312,311"
+2001,Kailali,Female,"304,386"
+2001,Kailali,Household,"94,430"
+2001,Kanchanpur,Male,"191,910"
+2001,Kanchanpur,Female,"185,989"
+2001,Kanchanpur,Household,"60,158"
+2011,Taplejung, Male,60552
+2011,Taplejung, Female,66909
+2011,Taplejung,Households,26509
+2011,Panchthar, Male,90186
+2011,Panchthar, Female,101631
+2011,Panchthar,Households,41196
+2011,Ilam, Male,141126
+2011,Ilam, Female,149128
+2011,Ilam,Households,64502
+2011,Jhapa, Male,385096
+2011,Jhapa, Female,427554
+2011,Jhapa,Households,184552
+2011,Morang, Male,466712
+2011,Morang, Female,498658
+2011,Morang,Households,213997
+2011,Sunsari, Male,371229
+2011,Sunsari, Female,392258
+2011,Sunsari,Households,162407
+2011,Dhankuta, Male,76515
+2011,Dhankuta, Female,86897
+2011,Dhankuta,Households,37637
+2011,Terhathum, Male,47151
+2011,Terhathum, Female,54426
+2011,Terhathum,Households,22094
+2011,Sankhuwasabha, Male,75225
+2011,Sankhuwasabha, Female,83517
+2011,Sankhuwasabha,Households,34624
+2011,Bhojpur, Male,86053
+2011,Bhojpur, Female,96406
+2011,Bhojpur,Households,39419
+2011,Solukhumbu, Male,51200
+2011,Solukhumbu, Female,54686
+2011,Solukhumbu,Households,23785
+2011,Okhaldhunga, Male,68687
+2011,Okhaldhunga, Female,79297
+2011,Okhaldhunga,Households,32502
+2011,Khotang, Male,97092
+2011,Khotang, Female,109220
+2011,Khotang,Households,42664
+2011,Udayapur, Male,149712
+2011,Udayapur, Female,167820
+2011,Udayapur,Households,66557
+2011,Saptari, Male,313846
+2011,Saptari, Female,325438
+2011,Saptari,Households,121098
+2011,Siraha, Male,310101
+2011,Siraha, Female,327227
+2011,Siraha,Households,117962
+2011,Dhanusa, Male,378538
+2011,Dhanusa, Female,376239
+2011,Dhanusa,Households,138249
+2011,Mahottari, Male,311016
+2011,Mahottari, Female,316564
+2011,Mahottari,Households,111316
+2011,Sarlahi, Male,389756
+2011,Sarlahi, Female,379973
+2011,Sarlahi,Households,132844
+2011,Sindhuli, Male,142123
+2011,Sindhuli, Female,154069
+2011,Sindhuli,Households,57581
+2011,Ramechhap, Male,93386
+2011,Ramechhap, Female,109260
+2011,Ramechhap,Households,43910
+2011,Dolakha, Male,87003
+2011,Dolakha, Female,99554
+2011,Dolakha,Households,45688
+2011,Sindhupalchok, Male,138351
+2011,Sindhupalchok, Female,149447
+2011,Sindhupalchok,Households,66688
+2011,Kavrepalanchok, Male,182936
+2011,Kavrepalanchok, Female,199001
+2011,Kavrepalanchok,Households,80720
+2011,Lalitpur, Male,238082
+2011,Lalitpur, Female,230050
+2011,Lalitpur,Households,109797
+2011,Bhaktapur, Male,154884
+2011,Bhaktapur, Female,149767
+2011,Bhaktapur,Households,68636
+2011,Kathmandu, Male,913001
+2011,Kathmandu, Female,831239
+2011,Kathmandu,Households,436344
+2011,Nuwakot, Male,132787
+2011,Nuwakot, Female,144684
+2011,Nuwakot,Households,59215
+2011,Rasuwa, Male,21475
+2011,Rasuwa, Female,21825
+2011,Rasuwa,Households,9778
+2011,Dhading, Male,157834
+2011,Dhading, Female,178233
+2011,Dhading,Households,73851
+2011,Makwanpur, Male,206684
+2011,Makwanpur, Female,213793
+2011,Makwanpur,Households,86127
+2011,Rautahat, Male,351079
+2011,Rautahat, Female,335643
+2011,Rautahat,Households,106668
+2011,Bara, Male,351244
+2011,Bara, Female,336464
+2011,Bara,Households,108635
+2011,Parsa, Male,312358
+2011,Parsa, Female,288659
+2011,Parsa,Households,95536
+2011,Chitawan, Male,279087
+2011,Chitawan, Female,300897
+2011,Chitawan,Households,132462
+2011,Gorkha, Male,121041
+2011,Gorkha, Female,150020
+2011,Gorkha,Households,66506
+2011,Lamjung, Male,75913
+2011,Lamjung, Female,91811
+2011,Lamjung,Households,42079
+2011,Tanahu, Male,143410
+2011,Tanahu, Female,179878
+2011,Tanahu,Households,78309
+2011,Syangja, Male,125833
+2011,Syangja, Female,163315
+2011,Syangja,Households,68881
+2011,Kaski, Male,236385
+2011,Kaski, Female,255713
+2011,Kaski,Households,125673
+2011,Manang, Male,3661
+2011,Manang, Female,2877
+2011,Manang,Households,1480
+2011,Mustang, Male,7093
+2011,Mustang, Female,6359
+2011,Mustang,Households,3354
+2011,Myagdi, Male,51395
+2011,Myagdi, Female,62246
+2011,Myagdi,Households,27762
+2011,Parbat, Male,65301
+2011,Parbat, Female,81289
+2011,Parbat,Households,35719
+2011,Baglung, Male,117997
+2011,Baglung, Female,150616
+2011,Baglung,Households,61522
+2011,Gulmi, Male,120995
+2011,Gulmi, Female,159165
+2011,Gulmi,Households,64921
+2011,Palpa, Male,115840
+2011,Palpa, Female,145340
+2011,Palpa,Households,59291
+2011,Nawalparasi, Male,303675
+2011,Nawalparasi, Female,339833
+2011,Nawalparasi,Households,128793
+2011,Rupandehi, Male,432193
+2011,Rupandehi, Female,448003
+2011,Rupandehi,Households,163916
+2011,Kapilbastu, Male,285599
+2011,Kapilbastu, Female,286337
+2011,Kapilbastu,Households,91321
+2011,Arghakhanchi, Male,86266
+2011,Arghakhanchi, Female,111366
+2011,Arghakhanchi,Households,46835
+2011,Pyuthan, Male,100053
+2011,Pyuthan, Female,128049
+2011,Pyuthan,Households,47730
+2011,Rolpa, Male,103100
+2011,Rolpa, Female,121406
+2011,Rolpa,Households,43757
+2011,Rukum, Male,99159
+2011,Rukum, Female,109408
+2011,Rukum,Households,41856
+2011,Salyan, Male,115969
+2011,Salyan, Female,126475
+2011,Salyan,Households,46556
+2011,Dang, Male,261059
+2011,Dang, Female,291524
+2011,Dang,Households,116415
+2011,Banke, Male,244255
+2011,Banke, Female,247058
+2011,Banke,Households,94773
+2011,Bardiya, Male,205080
+2011,Bardiya, Female,221496
+2011,Bardiya,Households,83176
+2011,Surkhet, Male,169421
+2011,Surkhet, Female,181383
+2011,Surkhet,Households,72863
+2011,Dailekh, Male,126990
+2011,Dailekh, Female,134780
+2011,Dailekh,Households,48919
+2011,Jajarkot, Male,85537
+2011,Jajarkot, Female,85767
+2011,Jajarkot,Households,30472
+2011,Dolpa, Male,18238
+2011,Dolpa, Female,18462
+2011,Dolpa,Households,7488
+2011,Jumla, Male,54898
+2011,Jumla, Female,54023
+2011,Jumla,Households,19303
+2011,Kalikot, Male,68833
+2011,Kalikot, Female,68115
+2011,Kalikot,Households,23013
+2011,Mugu, Male,28025
+2011,Mugu, Female,27261
+2011,Mugu,Households,9619
+2011,Humla, Male,25833
+2011,Humla, Female,25025
+2011,Humla,Households,9479
+2011,Bajura, Male,65806
+2011,Bajura, Female,69106
+2011,Bajura,Households,24908
+2011,Bajhang, Male,92794
+2011,Bajhang, Female,102365
+2011,Bajhang,Households,33786
+2011,Achham, Male,120008
+2011,Achham, Female,137469
+2011,Achham,Households,48351
+2011,Doti, Male,97252
+2011,Doti, Female,114494
+2011,Doti,Households,41440
+2011,Kailali, Male,378417
+2011,Kailali, Female,397292
+2011,Kailali,Households,142480
+2011,Kanchanpur, Male,216042
+2011,Kanchanpur, Female,235206
+2011,Kanchanpur,Households,82152
+2011,Dadeldhura, Male,66556
+2011,Dadeldhura, Female,75538
+2011,Dadeldhura,Households,27045
+2011,Baitadi, Male,117407
+2011,Baitadi, Female,133491
+2011,Baitadi,Households,45191
+2011,Darchula, Male,63605
+2011,Darchula, Female,69669
+2011,Darchula,Households,24618
