@@ -1,76 +1,76 @@
-District ,Sex Ratio (male per 100 female)
-Taplejung ,90
-Panchthar ,89
-Ilam ,95
-Jhapa ,90
-Morang ,94
-Sunsari ,95
-Dhankuta ,88
-Terhathum ,87
-Sankhuwasabha ,90
-Bhojpur ,89
-Solukhumbu ,94
-Okhaldhunga ,87
-Khotang ,89
-Udayapur ,89
-Saptari ,96
-Siraha ,95
-Dhanusa ,101
-Mahottari ,98
-Sarlahi ,103
-Sindhuli ,92
-Ramechhap ,85
-Dolakha ,87
-Sindhupalchok ,93
-Kavrepalanchowk ,92
-Lalitpur ,103
-Bhaktapur ,103
-Kathmandu ,110
-Nuwakot ,92
-Rasuwa ,98
-Dhading ,89
-Makwanpur ,97
-Rautahat ,105
-Bara ,104
-Parsa ,108
-Chitawan ,93
-Gorkha ,81
-Lamjung ,83
-Tanahu ,80
-Syangja ,77
-Kaski ,92
-Manang ,127
-Mustang ,112
-Myagdi ,83
-Parbat ,80
-Baglung ,78
-Gulmi ,76
-Palpa ,80
-Nawalparasi ,89
-Rupandehi ,96
-Kapilbastu ,100
-Arghakhanchi ,77
-Pyuthan ,78
-Rolpa ,85
-Rukum ,91
-Salyan ,92
-Dang ,90
-Banke ,99
-Bardiya ,93
-Surkhet ,93
-Dailekh ,94
-Jajarkot ,100
-Dolpa ,99
-Jumla ,102
-Kalikot ,101
-Mugu ,103
-Humla ,103
-Bajura ,95
-Bajhang ,91
-Achham ,87
-Doti ,85
-Kailali ,95
-Kanchanpur ,92
-Dadeldhura ,88
-Baitadi ,88
-Darchaula ,91
+District ,Zone,Geographical Region,Development Region,Sex Ratio (male per 100 female)
+Taplejung,Mechi,Mountain,Eastern,90
+Panchthar,Mechi,Hill,Eastern,89
+Ilam,Mechi,Hill,Eastern,95
+Jhapa,Mechi,Terai,Eastern,90
+Morang,Kosi,Terai,Eastern,94
+Sunsari,Kosi,Terai,Eastern,95
+Dhankuta,Kosi,Hill,Eastern,88
+Terhathum,Kosi,Hill,Eastern,87
+Sankhuwasabha,Kosi,Mountain,Eastern,90
+Bhojpur,Kosi,Hill,Eastern,89
+Solukhumbu,Sagarmatha,Mountain,Eastern,94
+Okhaldhunga,Sagarmatha,Hill,Eastern,87
+Khotang,Sagarmatha,Hill,Eastern,89
+Udayapur,Sagarmatha,Hill,Eastern,89
+Saptari,Sagarmatha,Terai,Eastern,96
+Siraha,Sagarmatha,Terai,Eastern,95
+Dhanusa,Janakpur,Terai,Central,101
+Mahottari,Janakpur,Terai,Central,98
+Sarlahi,Janakpur,Terai,Central,103
+Sindhuli,Janakpur,Hill,Central,92
+Ramechhap,Janakpur,Hill,Central,85
+Dolakha,Janakpur,Mountain,Central,87
+Sindhupalchok,Bagmati,Mountain,Central,93
+Kavre,Bagmati,Hill,Central,92
+Lalitpur,Bagmati,Hill,Central,103
+Bhaktapur,Bagmati,Hill,Central,103
+Kathmandu,Bagmati,Hill,Central,110
+Nuwakot,Bagmati,Hill,Central,92
+Rasuwa,Bagmati,Mountain,Central,98
+Dhading,Bagmati,Hill,Central,89
+Makwanpur,Narayani,Hill,Central,97
+Rautahat,Narayani,Terai,Central,105
+Bara,Narayani,Terai,Central,104
+Parsa,Narayani,Terai,Central,108
+Chitawan,Narayani,Terai,Central,93
+Gorkha,Gandaki,Hill,Western,81
+Lamjung,Gandaki,Hill,Western,83
+Tanahu,Gandaki,Hill,Western,80
+Syangja,Gandaki,Hill,Western,77
+Kaski,Gandaki,Hill,Western,92
+Manang,Gandaki,Mountain,Western,127
+Mustang,Dhawalagiri,Mountain,Western,112
+Myagdi,Dhawalagiri,Hill,Western,83
+Parbat,Dhawalagiri,Hill,Western,80
+Baglung,Dhawalagiri,Hill,Western,78
+Gulmi,Lumbini,Hill,Western,76
+Palpa,Lumbini,Hill,Western,80
+Nawalparasi,Lumbini,Terai,Western,89
+Rupandehi,Lumbini,Terai,Western,96
+Kapilbastu,Lumbini,Terai,Western,100
+Arghakhanchi,Lumbini,Hill,Western,77
+Pyuthan,Rapti,Hill,Mid-Western,78
+Rolpa,Rapti,Hill,Mid-Western,85
+Rukum,Rapti,Hill,Mid-Western,91
+Salyan,Rapti,Hill,Mid-Western,92
+Dang,Rapti,Terai,Mid-Western,90
+Banke,Bheri,Terai,Mid-Western,99
+Bardiya,Bheri,Terai,Mid-Western,93
+Surkhet,Bheri,Hill,Mid-Western,93
+Dailekh,Bheri,Hill,Mid-Western,94
+Jajarkot,Bheri,Hill,Mid-Western,100
+Dolpa,Karnali,Mountain,Mid-Western,99
+Jumla,Karnali,Mountain,Mid-Western,102
+Kalikot,Karnali,Mountain,Mid-Western,101
+Mugu,Karnali,Mountain,Mid-Western,103
+Humla,Karnali,Mountain,Mid-Western,103
+Bajura,Seti,Mountain,Far-Western,95
+Bajhang,Seti,Mountain,Far-Western,91
+Achham,Seti,Hill,Far-Western,87
+Doti,Seti,Hill,Far-Western,85
+Kailali,Seti,Terai,Far-Western,95
+Kanchanpur,Mahakali,Terai,Far-Western,92
+Dadeldhura,Mahakali,Hill,Far-Western,88
+Baitadi,Mahakali,Hill,Far-Western,88
+Darchaula,Mahakali,Mountain,Far-Western,91
